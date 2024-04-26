@@ -1,0 +1,1 @@
+This app allows users to search for information on users who have repositories on github and and allows you to view the repositories by dynamically being redirected without having to refresh on every search
